@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465665204212",
+    "project_id": "agronomix-ce1e5",
+    "storage_bucket": "agronomix-ce1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465665204212:android:59710db150431eaf83e3a1",
+        "android_client_info": {
+          "package_name": "com.Ralfiz.agronomix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZH3VezZVjgHAElL8nwXlbDJdahA62ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
